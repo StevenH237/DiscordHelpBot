@@ -7,4 +7,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="DSharpPlus" Version="4.2.0-nightly-01083" />
+    <PackageReference Include="DSharpPlus.SlashCommands" Version="4.2.0-nightly-01083" />
+  </ItemGroup>
+
 </Project>
